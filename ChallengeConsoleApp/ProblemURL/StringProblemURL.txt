@@ -1,5 +1,5 @@
 String 
-	1| Problem URL:
-	2| Problem URL:
+	1| Problem URL: https://leetcode.com/problems/majority-element/description/?envType=problem-list-v2&envId=sorting
+	2| Problem URL: https://neetcode.io/problems/is-subsequence/question?list=neetcode150 
 	3| Problem URL:
 	4| Problem URL:
