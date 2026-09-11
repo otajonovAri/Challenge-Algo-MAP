@@ -2,7 +2,7 @@
 
 public class ThreeSum
 {
-    public List<List<int>> ThreeSum(int[] nums)
+    public List<List<int>> ThreeSums(int[] nums)
     {
         if (nums.Length == 0) return new List<List<int>>(0);
 

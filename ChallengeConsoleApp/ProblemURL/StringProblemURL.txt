@@ -1,5 +1,6 @@
 String 
 	1| Problem URL: https://leetcode.com/problems/majority-element/description/?envType=problem-list-v2&envId=sorting
 	2| Problem URL:
-	3| Problem URL:
-	4| Problem URL:
+	3| Problem URL: https://neetcode.io/problems/duplicate-integer/question?list=neetcode150
+	4| Problem URL: https://neetcode.io/problems/is-anagram/question?list=neetcode150
+	5| Problem URL: 

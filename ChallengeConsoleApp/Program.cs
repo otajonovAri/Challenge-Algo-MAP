@@ -76,6 +76,11 @@ using Solution001Benchmark = ChallengeProblemBigO.LinkedListBenchMark.Solution00
     DefaultConfig.Instance.WithOptions(ConfigOptions.DisableOptimizationsValidator)
  );*/
 
+/*BenchmarkRunner.Run<SolutionFindWordsContainingTestBenchmark>
+(
+    DefaultConfig.Instance.WithOptions(ConfigOptions.DisableOptimizationsValidator)
+);*/
+
 BenchmarkRunner.Run<SolutionFindWordsContainingTestBenchmark>
 (
     DefaultConfig.Instance.WithOptions(ConfigOptions.DisableOptimizationsValidator)
