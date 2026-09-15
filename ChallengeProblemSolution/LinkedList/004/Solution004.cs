@@ -4,21 +4,12 @@ public class Solution
 {
     public void ReorderList(ListNode head)
     {
-        var list = ListNodeConverterFunc(head);
-        var res = MaxMinValue(list);
-
-        var curr = head;
-        
-        foreach(var item in res)
-        {
-            curr.val = item;
-            curr = curr.next;
-        }
+        Console.WriteLine(string.Join("->", ValueKeyPair(head)));
     }
 
-    public List<int> ListNodeConverterFunc(ListNode head)
-    {
-        var list = new List<int>();
+    /// return list of values in the linked list
+    private static List<int> ValueKeyPair(ListNode head)
+    {        var list = new List<int>();
         var curr = head;
 
         while(curr != null)
@@ -27,34 +18,7 @@ public class Solution
             curr = curr.next;
         }
 
-        return list;
-    }
+        return list; 
 
-    public List<int> ReverseList(List<int> list)
-    {
-        list.Reverse();
-        return list;
-    }
-
-    public int[] MaxMinValue(List<int> list)
-    {
-        int max = 0, min = 0;
-        var arr = new int[list.Count];
-        var reverse = ReverseList(list);
-
-        for(int i = 0; i < arr.Length; i++)
-        {
-            if (i % 2 == 0)
-            {
-                arr[i] = list[min];
-                min++;
-            }
-            else
-            {
-                arr[i] = reverse[max];
-                max++;
-            }
-        }
-        return arr;
     }
 }
