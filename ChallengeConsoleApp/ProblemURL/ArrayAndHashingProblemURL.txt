@@ -7,6 +7,6 @@ Array & Hashing
 	6| Problem URL: https://neetcode.io/problems/three-integer-sum/question?list=neetcode150
 	7| Problem URL: https://neetcode.io/problems/combination-target-sum-ii/question?list=neetcode150
 	8| Problem URL: https://leetcode.com/problems/single-number/?envType=problem-list-v2&envId=array
-	9| Problem URL: 
-	10| Problem URL: 
+	9| Problem URL: https://leetcode.com/problems/array-partition/description/?envType=problem-list-v2&envId=array
+	10| Problem URL: https://leetcode.com/problems/height-checker/description/?envType=problem-list-v2&envId=array
 
