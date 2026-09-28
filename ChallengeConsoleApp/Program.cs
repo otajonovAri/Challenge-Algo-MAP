@@ -81,7 +81,12 @@ using Solution001Benchmark = ChallengeProblemBigO.LinkedListBenchMark.Solution00
     DefaultConfig.Instance.WithOptions(ConfigOptions.DisableOptimizationsValidator)
 );*/
 
-BenchmarkRunner.Run<SolutionFindWordsContainingTestBenchmark>
+/*BenchmarkRunner.Run<SolutionFindWordsContainingTestBenchmark>
 (
+    DefaultConfig.Instance.WithOptions(ConfigOptions.DisableOptimizationsValidator)
+);
+*/
+// tesing Single Number LeetCode Benchmark
+BenchmarkRunner.Run<SingleNumberLeetCodeBenchmark>(
     DefaultConfig.Instance.WithOptions(ConfigOptions.DisableOptimizationsValidator)
 );
