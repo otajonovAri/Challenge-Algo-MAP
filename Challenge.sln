@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36327.8 d17.14
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12210.168 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeProblemSolution", "ChallengeProblemSolution\ChallengeProblemSolution.csproj", "{F85195BC-61B7-4E68-982D-DB1AC97D81DE}"
 EndProject
@@ -10,6 +10,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeProblemBigO", "ChallengeProblemBigO\ChallengeProblemBigO.csproj", "{AE3F5388-9659-49FE-B1AA-44E917886BB2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeConsoleApp", "ChallengeConsoleApp\ChallengeConsoleApp.csproj", "{61560374-2AF2-47BF-989C-4249F67FD247}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{17BD8065-2278-4FAE-AECD-985203E11BC9}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
