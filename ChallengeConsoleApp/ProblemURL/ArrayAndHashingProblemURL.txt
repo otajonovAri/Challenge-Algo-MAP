@@ -9,4 +9,6 @@ Array & Hashing
 	8| Problem URL: https://leetcode.com/problems/single-number/?envType=problem-list-v2&envId=array
 	9| Problem URL: https://leetcode.com/problems/array-partition/description/?envType=problem-list-v2&envId=array
 	10| Problem URL: https://leetcode.com/problems/height-checker/description/?envType=problem-list-v2&envId=array
-
+	11| Problem URL: https://neetcode.io/problems/concatenation-of-array/question?list=neetcode250
+	12| Problem URL: https://neetcode.io/problems/longest-common-prefix/question?list=neetcode250
+	13| Problem URL: https://neetcode.io/problems/reverse-string/question?list=neetcode250
