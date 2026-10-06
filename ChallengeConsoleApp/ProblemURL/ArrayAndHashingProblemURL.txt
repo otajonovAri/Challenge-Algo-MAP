@@ -12,3 +12,9 @@ Array & Hashing
 	11| Problem URL: https://neetcode.io/problems/concatenation-of-array/question?list=neetcode250
 	12| Problem URL: https://neetcode.io/problems/longest-common-prefix/question?list=neetcode250
 	13| Problem URL: https://neetcode.io/problems/reverse-string/question?list=neetcode250
+	14| Problem URL: https://neetcode.io/problems/contains-duplicate-ii/question?list=neetcode250
+	15| Problem URL: https://neetcode.io/problems/majority-element/question?list=allNC
+	16| Problem URL: https://neetcode.io/problems/relative-sort-array/question?list=neetcode150
+	17| Problem URL: https://neetcode.io/problems/first-unique-character-in-a-string/question?list=neetcode150
+	18| Problem URL: https://neetcode.io/problems/sort-the-people/question?list=neetcode150
+	19| Problem URL: https://neetcode.io/problems/sort-array-by-increasing-frequency/question?list=neetcode150

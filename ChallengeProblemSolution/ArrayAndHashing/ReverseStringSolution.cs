@@ -4,11 +4,9 @@ public class ReverseStringSolution
 {
     public void ReverseString(char[] s)
     {
-        int index = 0;
-
-        for(int i = s.Length - 1; i >= 0; i--)
-        {
-            s[index++] = s[i];
-        }
+        var chars = s.ToString();
+        var index = 0;
+        foreach (var item in chars)
+            s[index++] = item;
     }
 }
