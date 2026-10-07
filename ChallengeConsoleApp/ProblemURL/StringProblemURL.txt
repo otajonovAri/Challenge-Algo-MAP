@@ -7,3 +7,4 @@ String
 	6| Problem URL: https://leetcode.com/problems/length-of-last-word/description/?envType=problem-list-v2&envId=string
 	7| Problem URL: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 	8| Problem URL: https://neetcode.io/problems/maximum-number-of-balloons/question?list=neetcode150
+	9| Problem URL: neetcode.io/problems/score-of-a-string/question?list=allNC
