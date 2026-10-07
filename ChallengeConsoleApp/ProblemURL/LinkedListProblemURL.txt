@@ -9,3 +9,6 @@ LinkedList
 	8| Problem URL: https://neetcode.io/problems/reorder-linked-list/question?list=neetcode150
 	9| Problem URL: https://neetcode.io/problems/remove-linked-list-elements/question?list=allNC\
 	10| Problem URL: https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+	11| Problem URL: https://leetcode.com/problems/merge-nodes-in-between-zeros/
+	12| Problem URL: https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/
+	13| Problem URL: https://neetcode.io/problems/reorder-linked-list/question?list=allNC
