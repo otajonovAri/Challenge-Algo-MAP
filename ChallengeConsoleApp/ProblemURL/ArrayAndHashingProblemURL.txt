@@ -18,3 +18,5 @@ Array & Hashing
 	17| Problem URL: https://neetcode.io/problems/first-unique-character-in-a-string/question?list=neetcode150
 	18| Problem URL: https://neetcode.io/problems/sort-the-people/question?list=neetcode150
 	19| Problem URL: https://neetcode.io/problems/sort-array-by-increasing-frequency/question?list=neetcode150
+	20| Problem URL: https://neetcode.io/problems/merge-sorted-array/question?list=allNC
+	21| Problem URL: https://neetcode.io/problems/move-zeroes/question?list=allNC
