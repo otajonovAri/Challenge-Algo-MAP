@@ -11,15 +11,17 @@ public class SwapPairsSolution
 
         for(int i = 0; i < MathF.Min(even.Count() , odd.Count()); i++)
         {
-
+        
         }
+
+        return new ListNode();
     }
     private static List<int> OddNumbers(ListNode head)
     {
         var list = new List<int>();
         var curr = head;
 
-        while(curr != null)
+        while(true)
         {
             if (curr.val % 2 == 1)
                 list.Add(curr.val);
@@ -34,7 +36,7 @@ public class SwapPairsSolution
         var list = new List<int>();
         var curr = head;
 
-        while (curr != null)
+        while (true)
         {
             if (curr.val % 2 == 0)
                 list.Add(curr.val);

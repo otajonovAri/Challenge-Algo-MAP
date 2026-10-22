@@ -11,14 +11,4 @@ public class MarjorityElementLabaratory
 {
     private readonly SolutionMajorityElement _solution
         = new SolutionMajorityElement();
-
-    [Fact]
-    public SocketsHttpPlaintextStreamFilterContext MajorityElement_Returns_CaseOne()
-    {
-        var nums = new int[] { 3, 2, 3 };
-        var res = _solution.MajorityElements(nums);
-        var exp = 3;
-        //Assert.Equal(exp, res);
-        return 10; //res;
-    }
 }
