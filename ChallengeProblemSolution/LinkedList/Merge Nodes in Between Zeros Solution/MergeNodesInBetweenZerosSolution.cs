@@ -6,6 +6,6 @@ public class MergeNodesInBetweenZerosSolution
 {
     public ListNode MergeNodes(ListNode head)
     {
-           
+        return new ListNode();
     }
 }

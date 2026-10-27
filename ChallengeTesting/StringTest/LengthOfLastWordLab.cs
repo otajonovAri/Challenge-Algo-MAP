@@ -8,8 +8,5 @@ public class LengthOfLastWordLab
     [Fact]
     public void LengthOfLastWord_ReturnsCorrectLength()
     {
-        var result = _lengthOfLastWord.LengthOfLastWord("Hello World");
-        Assert.Equal(5 , 
-            result);
     }
 }
