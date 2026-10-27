@@ -27,3 +27,4 @@ Array & Hashing
 	26| Problem URL: https://neetcode.io/problems/contains-duplicate-ii/question?list=neetcode150
 	27| Problem URL: https://neetcode.io/problems/sort-colors/question?list=neetcode150
 	28| Problem URL: https://leetcode.com/problems/intersection-of-multiple-arrays/?envType=problem-list-v2&envId=2duz0dmr
+	29| Problem URL: https://leetcode.com/problems/first-unique-character-in-a-string/?envType=problem-list-v2&envId=2duz0dmr
