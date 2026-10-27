@@ -24,3 +24,5 @@ Array & Hashing
 	23| Problem URL: https://neetcode.io/problems/majority-element/question?list=neetcode150
 	24| Problem URL: https://neetcode.io/problems/products-of-array-discluding-self/question?list=neetcode150
 	25| Problem URL: https://neetcode.io/problems/isomorphic-strings/question?list=neetcode150
+	26| Problem URL: https://neetcode.io/problems/contains-duplicate-ii/question?list=neetcode150
+	27| Problem URL: https://neetcode.io/problems/sort-colors/question?list=neetcode150
