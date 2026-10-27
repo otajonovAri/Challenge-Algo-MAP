@@ -23,3 +23,4 @@ Array & Hashing
 	22| Problem URL: https://leetcode.com/problems/distribute-elements-into-two-arrays-i/?envType=daily-question&envId=2026-10-22
 	23| Problem URL: https://neetcode.io/problems/majority-element/question?list=neetcode150
 	24| Problem URL: https://neetcode.io/problems/products-of-array-discluding-self/question?list=neetcode150
+	25| Problem URL: https://neetcode.io/problems/isomorphic-strings/question?list=neetcode150
