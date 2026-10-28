@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ChallengeTesting\ChallengeTesting.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="LinkedListBenchMark\" />
     <Folder Include="Math\" />
     <Folder Include="StringBenchMark\" />
