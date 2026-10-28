@@ -17,4 +17,8 @@
     <Folder Include="TwoPointerBenchMark\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ChallengeProblemSolution\ChallengeProblemSolution.csproj" />
+  </ItemGroup>
+
 </Project>
