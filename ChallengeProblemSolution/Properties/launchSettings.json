@@ -1,8 +1,9 @@
 {
   "profiles": {
-    "ChallengeProblemSolution": {
+    "Profile 1": {
       "commandName": "Project",
-      "workingDirectory": "D:\\C#-Library\\Console\\TreeNode_Console\\Class"
+      "authenticationMode": "Windows",
+      "debugEngines": "managed-dotnet"
     }
   }
 }

@@ -11,8 +11,4 @@
     <ProjectReference Include="..\ChallengeProblemBigO\ChallengeProblemBigO.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="ProblemURL\" />
-  </ItemGroup>
-
 </Project>

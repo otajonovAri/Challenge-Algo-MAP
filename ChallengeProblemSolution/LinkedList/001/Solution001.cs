@@ -4,7 +4,7 @@ public class Solution001
 {
     public ListNode ReverseList(ListNode head)
     {
-        var dummy = new ListNode(0);
+        var dummy = new ListNode();
         var curr = dummy;
 
         foreach (var item in GetList(head))
@@ -21,14 +21,10 @@ public class Solution001
         var curr = head;
         var list = new List<int>();
 
-        while (curr != null)
+        while (true)
         {
             list.Add(curr.val);
             curr = curr.next;
         }
-
-        list.Reverse();
-
-        return list;
     }
 }

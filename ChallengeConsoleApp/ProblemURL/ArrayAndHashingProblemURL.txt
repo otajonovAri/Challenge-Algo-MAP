@@ -1,12 +1,25 @@
 Array & Hashing 
-	1| Problem URL: https://leetcode.com/problems/contains-duplicate/
-	2| Problem URL: https://leetcode.com/problems/valid-anagram/description/
-	3| Problem URL: https://leetcode.com/problems/two-sum/description/
-	4| Problem URL: https://leetcode.com/problems/group-anagrams/description/
-	5| Problem URL: https://leetcode.com/problems/single-number/?envType=problem-list-v2&envId=array
-	6| Problem URL: https://neetcode.io/problems/three-integer-sum/question?list=neetcode150
-	7| Problem URL: https://neetcode.io/problems/combination-target-sum-ii/question?list=neetcode150
-	8| Problem URL: https://leetcode.com/problems/single-number/?envType=problem-list-v2&envId=array
-	9| Problem URL: 
-	10| Problem URL: 
-
+    1| Problem URL: https://leetcode.com/problems/contains-duplicate/
+    2| Problem URL: https://leetcode.com/problems/valid-anagram/description/
+    3| Problem URL: https://leetcode.com/problems/two-sum/description/
+    4| Problem URL: https://leetcode.com/problems/group-anagrams/description/
+    5| Problem URL: https://leetcode.com/problems/single-number/?envType=problem-list-v2&envId=array
+    6| Problem URL: https://neetcode.io/problems/three-integer-sum/question?list=neetcode150
+    7| Problem URL: https://neetcode.io/problems/combination-target-sum-ii/question?list=neetcode150
+    8| Problem URL: https://leetcode.com/problems/single-number/?envType=problem-list-v2&envId=array
+    9| Problem URL: https://leetcode.com/problems/array-partition/description/?envType=problem-list-v2&envId=array
+	10| Problem URL: https://leetcode.com/problems/height-checker/description/?envType=problem-list-v2&envId=array
+	11| Problem URL: https://neetcode.io/problems/concatenation-of-array/question?list=neetcode250
+	12| Problem URL: https://neetcode.io/problems/longest-common-prefix/question?list=neetcode250
+	13| Problem URL: https://neetcode.io/problems/reverse-string/question?list=neetcode250
+	14| Problem URL: https://neetcode.io/problems/contains-duplicate-ii/question?list=neetcode250
+	15| Problem URL: https://neetcode.io/problems/majority-element/question?list=allNC
+	16| Problem URL: https://neetcode.io/problems/relative-sort-array/question?list=neetcode150
+	17| Problem URL: https://neetcode.io/problems/first-unique-character-in-a-string/question?list=neetcode150
+	18| Problem URL: https://neetcode.io/problems/sort-the-people/question?list=neetcode150
+	19| Problem URL: https://neetcode.io/problems/sort-array-by-increasing-frequency/question?list=neetcode150
+	20| Problem URL: https://neetcode.io/problems/merge-sorted-array/question?list=allNC
+	21| Problem URL: https://neetcode.io/problems/move-zeroes/question?list=allNC
+	22| Problem URL: https://leetcode.com/problems/distribute-elements-into-two-arrays-i/?envType=daily-question&envId=2026-10-22
+	23| Problem URL: https://neetcode.io/problems/majority-element/question?list=neetcode150
+	24| Problem URL: https://neetcode.io/problems/products-of-array-discluding-self/question?list=neetcode150

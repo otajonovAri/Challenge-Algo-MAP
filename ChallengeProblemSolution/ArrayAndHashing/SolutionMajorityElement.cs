@@ -12,6 +12,12 @@ public class SolutionMajorityElement
 
         return list;
     }
+
+    public IEnumerable<object> MajorityElements(int[] nums)
+    {
+        throw new NotImplementedException();
+    }
+
     private Dictionary<int, int> GetDictionary(int[] nums)
     {
         var dict = new Dictionary<int, int>();

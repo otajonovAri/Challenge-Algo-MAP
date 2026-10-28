@@ -13,7 +13,6 @@
   <ItemGroup>
     <Folder Include="LinkedListBenchMark\" />
     <Folder Include="Math\" />
-    <Folder Include="StringBenchMark\" />
     <Folder Include="TwoPointerBenchMark\" />
   </ItemGroup>
 
