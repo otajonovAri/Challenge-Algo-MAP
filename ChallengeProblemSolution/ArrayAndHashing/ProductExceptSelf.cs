@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace ChallengeProblemSolution.ArrayAndHashing;
 
-namespace ChallengeProblemSolution.ArrayAndHashing
+public class ProductExceptSelf
 {
-    internal class ProductExceptSelf
+    public int[] ProductExceptSelfSolution(int[] nums)
     {
+        return new int[] { };
     }
+
+
 }
