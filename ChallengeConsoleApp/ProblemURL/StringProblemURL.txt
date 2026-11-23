@@ -10,4 +10,4 @@ String
 	9| Problem URL: neetcode.io/problems/score-of-a-string/question?list=allNC
 	10| Problem URL: https://neetcode.io/problems/reverse-string/question?list=allNC
 	11| Problem URL: https://neetcode.io/problems/push-dominoes/question?list=neetcode150
-
+	12| Problem URL: https://leetcode.com/problems/remove-duplicate-letters/?envType=problem-list-v2&envId=vpc56u9e
